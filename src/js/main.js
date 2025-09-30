@@ -13,6 +13,10 @@ import './typed'
 // curtain js
 import './curtain'
 
+// particles (load library then init file)
+// import './particles.min.js'
+// import './app.js'
+
 // contact form functions
 import './contact'
 
